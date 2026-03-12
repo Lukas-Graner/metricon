@@ -1,0 +1,12 @@
+node_modules
+dist
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+*.log
+.git
+.gitignore
+Dockerfile
+.dockerignore
+README.md
